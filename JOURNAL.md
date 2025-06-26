@@ -72,3 +72,27 @@
 
 **time: 1h**
 
+# 6/26/2025
+
+* Using another MCU (the wroom c3) as a way to add wifi connectivity at the cost of 1 UART interface when being used
+* decided to start routing the board so that I can know which pins are ideal to use for what purpose, so i assigned all the footprints
+
+![image](https://github.com/user-attachments/assets/9298c907-adc1-4508-9a1d-cd949ea0405e)
+
+
+* I had trouble routing because the pins were too close together, so I changed the main MCU to the RP2040 and double checked that everything was according to the different hardware guide
+
+![image](https://github.com/user-attachments/assets/3628c8ea-95b3-43e8-b645-53cbb77f72dc)
+
+
+* i had to replace a few of the parts of the schematics to fit with the RP2040, and then I reselected all the footprints and started routing
+
+![image](https://github.com/user-attachments/assets/22a9316c-8716-49b5-8ddf-000d00cae4c3)
+
+
+* here is the routing I have so far, and I tried my best to make sure that sensitive components would be out of the way from traces that would disrupt them, but what I did realize is that I need to find a new ESD protection IC since the current one would pretty much make it impossible to route
+* It was pretty time consuming due to the numerous decoupling capacitors needed in many locations, and I might have to compromise on a few of them 
+
+
+**Time: 2h**
+
