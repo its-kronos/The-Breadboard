@@ -62,3 +62,13 @@
 
 **TIME: 2h30m**
 
+* I was done with the RP chip wiring from last session, so now the next logical step would be for me to wire the pin headers, but I was unable to decide which nets/GPIOs should go to which pin on the headers, but I did add a boot button to RUN and some more headers for debugging
+
+![image](https://github.com/user-attachments/assets/944420b2-67c0-4f00-bf80-fd934d120c2c)
+
+* I instead decided to try and add the RF/WIFI IC for the wifi support that I wanted to add, and I looked at the documentation for the CC2500 transceiver by TI, but this only led to me being increasingly confused and spending a lot of time pretty much getting nowhere
+* My main question would be how the RP2350 chip would communicate with the CC2500 to control what packets of data or being sent out, or what mode the chip is in.
+
+
+**time: 1h**
+
