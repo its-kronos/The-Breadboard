@@ -113,4 +113,25 @@
 
 **TIME:2h**
 
+# 6/27/2025
+
+* rerouted the differential pair so that it actually has a 90 ohm differential impedance which is called for by USB protocol, and this took a long while because I didn't really know how to get the DRC to stop screaming at me for having too small clearances, but this was fixed by just assigning different netclasses.
+
+![image](https://github.com/user-attachments/assets/e25c85dc-2b6b-48a4-ae40-6c867b012729)
+
+
+* routed the secondary MCU completely, although i am worried a bit about the TX and RX traces for it interfering, so if I have space in the future after routing GPIO, I'll try to separate them.
+
+![image](https://github.com/user-attachments/assets/34b2d76f-e1e5-4499-862b-68d77f65f4e8)
+
+
+* moved some components in order to have a much slimmer layout, and then proceeded to route the GPIO pins, which for now was pretty easy (except for deciding which GPIO pin should be where), but I have a feeling that the last few GPIOs might be a lot more difficult
+
+![image](https://github.com/user-attachments/assets/546a7992-ba91-4d1e-a8ba-cae6113803da)
+
+
+
+TIME: 2h 15m
+
+
 
