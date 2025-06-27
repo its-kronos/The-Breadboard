@@ -96,3 +96,21 @@
 
 **Time: 2h**
 
+* found a new, better ESD protection that would be easier to route and even cheaper too
+* restarted routing because I didn't plan for the ESD protection to be this big
+
+![image](https://github.com/user-attachments/assets/51310495-d62c-4185-be19-6e7bbe835603)
+
+
+* placed everything except the connectors, which could go almost anywhere on the board (this took a while to get everything seemingly spaced out well enough but I feel that it's pretty good)
+
+![image](https://github.com/user-attachments/assets/765502e2-df04-4da1-9bb2-a3c24e8a107c)
+
+
+* finished routing everything for the main part of the board (meaning excluding WIFI and GPIO), which took around an hour due to slight repositioning and trying to space out signals when possible, which was mostly a new-ish concept for me, which I only slight skimmed over for a keyboard I made prior.
+
+![image](https://github.com/user-attachments/assets/230ba348-8aa4-40d8-9ee5-b88bd68caf82)
+
+**TIME:2h**
+
+
