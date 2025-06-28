@@ -151,6 +151,12 @@ TIME: 2h 15m
 
 **time: 1h45m** 
 
+# 6/28/2025
+
+- Just drafted up some code to be able to flash the second MCU for the WIFI connection by forwarding USB signals through UART
+- Started creating stuff like the BOM and will finish a description in the README with pictures (This will most likely be untimed)
+
+**TIME: 30m**
 
 
 
