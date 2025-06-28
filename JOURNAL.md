@@ -133,5 +133,24 @@
 
 TIME: 2h 15m
 
+* I finished up routing everything which was surprisingly easy due to the amount of excess space I had. It was just a bit time consuming to figure out the best way to route everything to minimize crossovers
+* I was a bit worried about the crystal being close to GPIO traces, but somebody also part of Hackclub told me that it's most likely fine due to the grounding vias, but I did also move it closer to the XTAL pins on the MCU
+* Added some art on the front and back C:
+
+![image](https://github.com/user-attachments/assets/6832c15f-6d53-4862-ba1c-306d291e18b8)
+
+![image](https://github.com/user-attachments/assets/2edf8ba0-e7a7-4991-9acc-0fa04d617e89)
+
+![image](https://github.com/user-attachments/assets/33ca0cb7-a177-42f1-857f-51fd17137526)
+
+![image](https://github.com/user-attachments/assets/70c8e87b-0a2c-42e2-8d56-9ad9d710b602)
+
+
+* All that's really left for me would be to draft up some code and maybe (?) create a case (probably not since single-color PLA wouldn't really look that great for it)
+
+
+**time: 1h45m** 
+
+
 
 
