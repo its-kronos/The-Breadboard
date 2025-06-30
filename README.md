@@ -29,6 +29,9 @@
 ![image](https://github.com/user-attachments/assets/7673d5b7-8ca9-4117-a122-7dee78e772a3)
 ![image](https://github.com/user-attachments/assets/64d12f69-5a9d-43fb-85d0-74aa405bddff)
 ![image](https://github.com/user-attachments/assets/918cb1b6-7b80-4891-8dc3-17a322ed6e84)
+![image](https://github.com/user-attachments/assets/c5d76062-b545-4f88-94c6-b720ce0cfa50)
+![image](https://github.com/user-attachments/assets/afc274f0-a628-4e4e-9cef-c145bc1bfcbf)
+
 
 # CAD
 - I unfortunately feel that anything in a single-color print wouldn't really look good and instead completely hide the purpose that I designed this PCB for.
@@ -42,7 +45,7 @@
 | JLCPCB     |         |                                                   |          |                             |     |                                   |                                       |
 |            | PCB     | 3.1                                               |          | 5                           | 1   | LEAD-FREE HASL                    |                                       |
 |            | PCBA    | 42.27                                             |          | 2                           | 1   | Only for SMD                      |                                       |
-|            |         |                                                   | 26.15    |                             |     | UPS DDP to avoid customs headache (cheapest shipping available) | Detailed by the cost-optimizing guide |
+|            |         |                                                   | 26.15    |                             |     | UPS DDP to avoid customs headache (cheapest shipping available with DDP) | Detailed by the cost-optimizing guide |
 |            |         |                                                   | 24.96    |                             |     | Taxes & Fees                      |                                       |
 |            |         |                                                   |          |                             |     |                                   |                                       |
 |            | TOTAL   | 96.48                                             |          |                             |     |                                   |                                       |
