@@ -4,8 +4,8 @@
 "C21, C22",402,2,C15p,C1548
 "C4, C5",402,2,C10u,C15525
 J1,Korean Hroparts Elec - Type C 31 M 12 - 16P - USB 2.0,1,~,C165948
-J2,PinHeader_2x25_P1.00mm_Vertical,1,Conn_02x25_Odd_Even,DNF
-J3,PinHeader_1x03_P1.00mm_Vertical,1,Conn_01x03_Pin,DNF
+J2,PinHeader_2x25_P2.54mm_Vertical,1,Conn_02x25_Odd_Even,DNF
+J3,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Pin,DNF
 "R1, R4, R6",402,3,R1k,C11702
 "R2, R3",402,2,R5.1k,C25905
 "R7, R8",603,2,R27,C25190
