@@ -1,5 +1,6 @@
 # The Breadboard+
-![image](https://github.com/user-attachments/assets/d4447ca4-ed9b-472e-b072-faba39d8eaf0)
+![image](https://github.com/user-attachments/assets/ab8580e7-67e3-40dd-bfe6-f4bbbd5739aa)
+
 # What is it?
 - The Breadboard+ is a custom RP2040 devboard in the ***shape of bread*** and fun decorations on both the front and back, making it slightly bigger than others in return for a much nicer look.
 - This board should have nearly everything that would be needed for any IOT project, including a ***USBC connection, 24 GPIO pins (4 analog), and even WIFI connectivity*** through a secondary microcontroller on the board (the ESP-32 WROOM C3)
@@ -27,10 +28,12 @@
 # PCB
 - There were some moments of learning, but since I already created a PCB for a bare-chip custom keyboard, this process was pretty fast comparatively.
 ![image](https://github.com/user-attachments/assets/7673d5b7-8ca9-4117-a122-7dee78e772a3)
-![image](https://github.com/user-attachments/assets/64d12f69-5a9d-43fb-85d0-74aa405bddff)
-![image](https://github.com/user-attachments/assets/918cb1b6-7b80-4891-8dc3-17a322ed6e84)
-![image](https://github.com/user-attachments/assets/c5d76062-b545-4f88-94c6-b720ce0cfa50)
-![image](https://github.com/user-attachments/assets/afc274f0-a628-4e4e-9cef-c145bc1bfcbf)
+
+![image](https://github.com/user-attachments/assets/8636b02e-7edc-40ab-a2ba-13ff5da1ca1c)
+![image](https://github.com/user-attachments/assets/fa821974-743b-48d4-8863-e21d9f0e82e5)
+![image](https://github.com/user-attachments/assets/c8feffc1-2c8f-4bc7-a94c-e4c0a7d5b139)
+![image](https://github.com/user-attachments/assets/a44f97c6-7b3c-4edb-8427-2f9e2576d3ef)
+
 
 
 # CAD
