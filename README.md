@@ -1,5 +1,9 @@
 # The Breadboard+
-![image](https://github.com/user-attachments/assets/ab8580e7-67e3-40dd-bfe6-f4bbbd5739aa)
+
+![PCB_FRONT](https://github.com/user-attachments/assets/3adad736-2129-4c30-b9ae-679a96ccceec)
+
+![PCB_BACK](https://github.com/user-attachments/assets/6c6d4610-c3ea-4d7f-a9e6-3198758aaf28)
+
 
 # What is it?
 - The Breadboard+ is a custom RP2040 devboard in the ***shape of bread*** and fun decorations on both the front and back, making it slightly bigger than others in return for a much nicer look.
