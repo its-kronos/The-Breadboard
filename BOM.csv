@@ -1,0 +1,21 @@
+VENDOR,ITEM,PRICE(USD),SHIPPING,PCS,CNT,REMARKS 1,REMARKS 2
+,,,,,,,
+JLCPCB,,,,,,,
+,PCB,3.1,,5,1,LEAD-FREE HASL,
+,PCBA,42.27,,2,1,Only for SMD,
+,,,26.15,,,UPS DDP to avoid customs headache,Detailed by the cost-optimizing guide
+,,,24.96,,,Taxes & Fees,
+,,,,,,,
+,TOTAL,96.48,,,,,
+,,,,,,,
+ALIEXPRESS,,,,,,,
+,HEADERS,2.13,,10 1x40 Female 10 1x40 Male,1,,
+,BUTTONS,2.77,,20,1,6x6x4.3mm,EXCLUDED
+,,,1.99,,,,
+,,,,,,,
+,TOTAL,4.12,,,,,
+,,,,,,,
+,,,,,,,
+TAXES,,(Have way more than enough needed for ALIEXPRESS),,,,,
+,,,,,,,
+TOTAL,100.6,,,,,,
