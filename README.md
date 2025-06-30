@@ -45,7 +45,7 @@
 | JLCPCB     |         |                                                   |          |                             |     |                                   |                                       |
 |            | PCB     | 3.1                                               |          | 5                           | 1   | LEAD-FREE HASL                    |                                       |
 |            | PCBA    | 42.27                                             |          | 2                           | 1   | Only for SMD                      |                                       |
-|            |         |                                                   | 26.15    |                             |     | UPS DDP to avoid customs headache (cheapest shipping available) | Detailed by the cost-optimizing guide |
+|            |         |                                                   | 26.15    |                             |     | UPS DDP to avoid customs headache (cheapest shipping available with DDP) | Detailed by the cost-optimizing guide |
 |            |         |                                                   | 24.96    |                             |     | Taxes & Fees                      |                                       |
 |            |         |                                                   |          |                             |     |                                   |                                       |
 |            | TOTAL   | 96.48                                             |          |                             |     |                                   |                                       |
