@@ -5,7 +5,7 @@
 - Author: An. D. (its_kronos)
 - Description: Breadboard, but microcontroller (AKA custom devboard) *probably change later*
 - Creation Date: 6/24/2025
-- Total Time (before building): 12h 
+- Total Time (before building): 13h 
 
 # 6/24/2025
 
@@ -158,5 +158,14 @@ TIME: 2h 15m
 
 **TIME: 30m**
 
+# 6/30/25
+
+- Turns out I used the wrong footprint for the pin headers, so I had to restart routing them and make the board bigger, which wasn't much of a challenge since the routing was pretty similar, but still a bit time consuming.
+![image](https://github.com/user-attachments/assets/52d549d9-311a-4961-9e7a-d7e7e28af3e0)
+- Anyways here is the (hopefully) final version
+![image](https://github.com/user-attachments/assets/c0ce1422-f917-4611-b2c3-08655632f1f8)
+![image](https://github.com/user-attachments/assets/b333355a-2da1-4c38-9407-1c0878888d27)
+
+**TIME: 1h**
 
 
