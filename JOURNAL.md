@@ -185,3 +185,14 @@ TIME: 2h 15m
 - I decided to then try circuit python again, but this ultimately failed, and I realized that the RP2040 chip doesn't support UART on *every* single pin, only some of them for TX and RX, so I then learned that I needed to use PIO
 
 **Time: 6.25h**
+
+- I implemented PIO and was able to flash and read the MCU
+
+<img width="463" height="243" alt="image" src="https://github.com/user-attachments/assets/5f4fd61a-8de9-40d7-9e95-c324ae35a9cc" />
+
+<img width="809" height="200" alt="image" src="https://github.com/user-attachments/assets/aff48a09-1e91-437d-b894-1c9a1e2fbf50" />
+
+
+- However, it did take me a while to learn that I had to use a much slower bauderate than default, and trying to use the normal one just resulted in no connection to esptool
+
+  **TIME: 2h**
