@@ -171,4 +171,28 @@ TIME: 2h 15m
 
 **TIME: 1h**
 
+# 7/25/25
 
+- Started by figuring out how to get circuit python on the RP2040, which required me to use linux to create a custom devboard config
+- Since I used windows, I had to research about virtual machines and had to get linux running with everything needed for circuit python, which was quite a challenge due to me not really using terminal before
+
+<img width="494" height="161" alt="image" src="https://github.com/user-attachments/assets/fad45cbf-a702-42ee-af6d-6a5531bf3deb" />
+
+- However, after flashing circuit python, it didn't allow me to use the TX and RX pins I needed, so then I tried micropython, which also didn't work!
+
+<img width="850" height="660" alt="image" src="https://github.com/user-attachments/assets/fb14635e-0a23-43d1-8ea5-4c8a3950f9e3" />
+
+- I decided to then try circuit python again, but this ultimately failed, and I realized that the RP2040 chip doesn't support UART on *every* single pin, only some of them for TX and RX, so I then learned that I needed to use PIO
+
+**Time: 6.25h**
+
+- I implemented PIO and was able to flash and read the MCU
+
+<img width="463" height="243" alt="image" src="https://github.com/user-attachments/assets/5f4fd61a-8de9-40d7-9e95-c324ae35a9cc" />
+
+<img width="809" height="200" alt="image" src="https://github.com/user-attachments/assets/aff48a09-1e91-437d-b894-1c9a1e2fbf50" />
+
+
+- However, it did take me a while to learn that I had to use a much slower bauderate than default, and trying to use the normal one just resulted in no connection to esptool
+
+  **TIME: 2h**
